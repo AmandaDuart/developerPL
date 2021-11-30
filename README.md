@@ -1,4 +1,4 @@
-#Desafio técnico - Fullstack Pleno
+<h1 align="center">Desafio técnico - Fullstack Pleno</h1>
 Olá! Gostaríamos de agradecer pelo seu interesse em nossa oportunidade.
 
 Neste desafio, você construirá uma versão muito simplificada de uma plataforma de vendas.
