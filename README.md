@@ -1,9 +1,9 @@
 <h1 align="center">Desafio técnico - Fullstack Pleno</h1>
-Olá! Gostaríamos de agradecer pelo seu interesse em nossa oportunidade.
+<p align="justify"> Olá! Gostaríamos de agradecer pelo seu interesse em nossa oportunidade.
 
 Neste desafio, você construirá uma versão muito simplificada de uma plataforma de vendas.
 
-Desejamos um excelente trabalho e lembre-se: estamos torcendo por você!
+Desejamos um excelente trabalho e lembre-se: estamos torcendo por você!</p>
 
 Cenário
 Por conta da pandemia, o Café XYZ precisou substituir seus cardápios impressos por digitais. Agora, eles oferecem aos seus clientes um QR Code para que realizem seus pedidos diretamente pelo celular.
